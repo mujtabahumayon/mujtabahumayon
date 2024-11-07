@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mujtabahumayon
-- 👀 I’m interested in Full stack Web Development (MERN STACK)
-- 🌱 I’m currently learning Full Stack Web Development (MERN STACK)
-- 💞️ I’m looking to collaborate on Mern Stack
-- 📫 How to reach me ... O.o
+- 👀 I’m interested in Data Science / Machine Learning
+- 🌱 I’m currently persuing Masters in Computer Science
+- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/mujtabahumayon/
 
 <!---
 mujtabahumayon/mujtabahumayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
