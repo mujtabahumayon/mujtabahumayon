@@ -1,43 +1,68 @@
 👋 **Hello! I'm Mujtaba Humayon**
 > Data Scientist | Machine Learning Enthusiast | Problem Solver
 
-Welcome to my GitHub! I’m passionate about turning data into actionable insights and building machine learning models to solve real-world problems. Here, you'll find projects that showcase my skills in data science, from customer segmentation models to deep learning applications in cybersecurity.
+## Welcome to my GitHub! 🚀  
 
-🌟 **About Me**
+I’m passionate about turning data into actionable insights and building machine learning models to solve real-world problems. My work spans customer segmentation, fraud detection, and deep learning applications in cybersecurity.
 
-I’m currently working on my Master’s in Computer Science at the University of Alabama at Birmingham, focusing on machine learning, data mining, and cloud computing. My journey began with a Bachelor's in Computer Science from Iqra University, where I dived into software development and data structures, eventually finding my passion in data science.
+### 🌟 About Me  
 
-When I’m not coding, I’m likely exploring the latest tech trends or working on collaborative projects to keep pushing my skills forward.
+I recently earned my **Master’s in Computer Science** from the **University of Alabama at Birmingham**, where I focused on **machine learning, data mining, and cloud computing**. My journey began with a **Bachelor’s in Computer Science** from **Iqra University**, where I built a strong foundation in **software development, data structures, and AI-driven applications**.  
 
-🛠️ **Skills Snapshot**
-- Languages & Libraries: Python (Pandas, NumPy), SQL, JavaScript
-- Machine Learning & Deep Learning: Scikit-learn, PyTorch
-- Data Visualization: Matplotlib, Seaborn
-- Tools & Cloud Platforms: AWS (S3, EC2), MySQL, PostgreSQL
+Currently, I work as a **Data Analyst at StarTech Networks Inc.**, where I analyze complex datasets, develop interactive dashboards, and apply machine learning to optimize business strategies.  
 
-🧠 **Featured Projects**
+When I’m not coding, I’m likely exploring the latest tech trends, working on open-source projects, or deep-diving into AI and cybersecurity research.
 
-- 🩺 **Breast Cancer Detection Using Newton’s Method**
-Summary: I developed a classifier for breast cancer detection using Newton's Algorithm and achieved over 96% accuracy using Sklearn’s Logistic Regression.
-Why It’s Cool: This project shows how classic algorithms can be applied to real-world health data to make a difference. Check out my code to see Newton’s method in action!
-🔗 View on GitHub
+---
 
-- 📊 **Customer Segmentation with RFM and K-Means**
-Summary: Built a customer segmentation model for an online retail dataset using RFM analysis and K-Means clustering. Perfect for targeted marketing!
-What I Learned: I used the Elbow method and Silhouette Score to optimize clusters and gained insights into customer behaviors.
-🔗 View on GitHub
+### 🛠️ Skills Snapshot  
 
-- 🔒 **Phishing Websites Detection Using Deep Learning**
-Summary: Developed a neural network to detect phishing sites with high accuracy, showcasing the power of deep learning in cybersecurity.
-Cool Stuff: Hyperparameter tuning helped boost accuracy from 93% to nearly 100%! If you're into PyTorch and cybersecurity, you’ll enjoy this.
-🔗 View on GitHub
-
-📬 **Let’s Connect!**
-I’m always excited to discuss projects, job opportunities, or even just chat about data science and machine learning. You can find me on LinkedIn, Let’s make something awesome together!
+•	Programming: JavaScript, Python (Pandas, NumPy), SQL
+•	Machine Learning & Deep Learning Frameworks: PyTorch, Scikit-learn
+•	Clustering & Association Algorithms: Hierarchical Clustering, K-Means
+•	Optimization & Dimensionality Reduction: Grid Search, PCA, XGBoost
+•	Data Visualization: Matplotlib, Seaborn
+•	Databases: MySQL, PostgreSQL
+•	Business Intelligence & Reporting: Excel, Power BI, Tableau
+•	Data Analysis & Modeling:
+•	Classification: Logistic Regression, K-NN, SVM, Naive Bayes
+•	Regression: Linear Regression, Decision Tree, Random Forest
+•	Other: Data Cleaning, Feature Engineering, Pandas
 
 
+---
 
-<!---
-mujtabahumayon/mujtabahumayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔥 Featured Projects  
+
+#### 🏦 **Credit Card Fraud Detection using Machine Learning**  
+- Developed a machine learning model to detect fraudulent transactions using **Logistic Regression, Random Forest, and K-Means**.  
+- **Achieved 99.95% accuracy** on a Kaggle dataset of **284,807 transactions** after feature engineering and PCA.  
+- **Tools:** Python, Scikit-learn, Pandas, NumPy  
+
+
+#### 🩺 **Newton’s Method for Breast Cancer Detection**  
+- Implemented **Newton’s Method** for tumor classification using **Logistic Regression** on the **UCI dataset**.  
+- Achieved **99.73% accuracy** with data preprocessing and optimization.  
+- **Tools:** Python, PyTorch, Scikit-learn  
+
+
+#### 📊 **Customer Segmentation Using RFM and K-Means Clustering**  
+- Analyzed **500,000+ transactions** from a UK-based retailer to segment customers based on purchasing behavior.  
+- Used **RFM analysis and K-Means clustering** to identify distinct customer groups for targeted marketing.  
+- **Tools:** Python, Scikit-learn, Pandas, Matplotlib   
+
+#### 🔒 **Phishing Website Detection using Deep Learning**  
+- Developed a **Feedforward Neural Network (FNN)** to detect phishing sites using a dataset of **11,055 instances**.  
+- Improved accuracy from **93.14% to 99.73%** through **hyperparameter tuning**.  
+- **Tools:** Python, PyTorch, Scikit-learn  
+
+🔗 [View on GitHub](#)  
+
+---
+
+### 📬 Let’s Connect!  
+
+I’m always open to discussing **projects, job opportunities, or AI research**. Let’s build something amazing together!  
+
+📧 **Email:** mujtabahumayon@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/mujtabahumayon](https://www.linkedin.com/in/mujtabahumayon)  
