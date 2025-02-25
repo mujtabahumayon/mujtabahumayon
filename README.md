@@ -17,17 +17,17 @@ When I’m not coding, I’m likely exploring the latest tech trends, working on
 
 ### 🛠️ Skills Snapshot  
 
-•	Programming: JavaScript, Python (Pandas, NumPy), SQL
-•	Machine Learning & Deep Learning Frameworks: PyTorch, Scikit-learn
-•	Clustering & Association Algorithms: Hierarchical Clustering, K-Means
-•	Optimization & Dimensionality Reduction: Grid Search, PCA, XGBoost
-•	Data Visualization: Matplotlib, Seaborn
-•	Databases: MySQL, PostgreSQL
-•	Business Intelligence & Reporting: Excel, Power BI, Tableau
-•	Data Analysis & Modeling:
-•	Classification: Logistic Regression, K-NN, SVM, Naive Bayes
-•	Regression: Linear Regression, Decision Tree, Random Forest
-•	Other: Data Cleaning, Feature Engineering, Pandas
+** •	Programming: JavaScript, Python (Pandas, NumPy), SQL
+** •	Machine Learning & Deep Learning Frameworks: PyTorch, Scikit-learn
+** •	Clustering & Association Algorithms: Hierarchical Clustering, K-Means
+** •	Optimization & Dimensionality Reduction: Grid Search, PCA, XGBoost
+** •	Data Visualization: Matplotlib, Seaborn
+** •	Databases: MySQL, PostgreSQL
+** •	Business Intelligence & Reporting: Excel, Power BI, Tableau
+** •	Data Analysis & Modeling:
+** •	Classification: Logistic Regression, K-NN, SVM, Naive Bayes
+** •	Regression: Linear Regression, Decision Tree, Random Forest
+** •	Other: Data Cleaning, Feature Engineering, Pandas
 
 
 ---
@@ -55,8 +55,6 @@ When I’m not coding, I’m likely exploring the latest tech trends, working on
 - Developed a **Feedforward Neural Network (FNN)** to detect phishing sites using a dataset of **11,055 instances**.  
 - Improved accuracy from **93.14% to 99.73%** through **hyperparameter tuning**.  
 - **Tools:** Python, PyTorch, Scikit-learn  
-
-🔗 [View on GitHub](#)  
 
 ---
 
