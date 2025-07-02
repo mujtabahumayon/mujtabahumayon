@@ -1,66 +1,54 @@
-👋 **Hello! I'm Mujtaba Humayon**
-> Data Scientist | Machine Learning Enthusiast | Problem Solver
+👋 **Hello! I'm Mujtaba Humayon**  
+> Data Analyst | Business Intelligence Developer | SQL • Python • Tableau • Power BI
 
 ## Welcome to my GitHub! 🚀  
 
-I’m passionate about turning data into actionable insights and building machine learning models to solve real-world problems. My work spans customer segmentation, fraud detection, and deep learning applications in cybersecurity.
-
-### 🌟 About Me  
-
-I recently earned my **Master’s in Computer Science** from the **University of Alabama at Birmingham**, where I focused on **machine learning, data mining, and cloud computing**. My journey began with a **Bachelor’s in Computer Science** from **Iqra University**, where I built a strong foundation in **software development, data structures, and AI-driven applications**.  
-
-Currently, I work as a **Data Analyst at StarTech Networks Inc.**, where I analyze complex datasets, develop interactive dashboards, and apply machine learning to optimize business strategies.  
-
-When I’m not coding, I’m likely exploring the latest tech trends, working on open-source projects, or deep-diving into AI and cybersecurity research.
-
----
-
-### 🛠️ Skills Snapshot  
-
--	Programming: JavaScript, Python (Pandas, NumPy), SQL
--	Machine Learning & Deep Learning Frameworks: PyTorch, Scikit-learn
--	Clustering & Association Algorithms: Hierarchical Clustering, K-Means
--	Optimization & Dimensionality Reduction: Grid Search, PCA, XGBoost
--	Data Visualization: Matplotlib, Seaborn
--	Databases: MySQL, PostgreSQL
--	Business Intelligence & Reporting: Excel, Power BI, Tableau
--	Data Analysis & Modeling:
--	Classification: Logistic Regression, K-NN, SVM, Naive Bayes
--	Regression: Linear Regression, Decision Tree, Random Forest
--	Other: Data Cleaning, Feature Engineering, Pandas
-
+I’m passionate about transforming raw data into actionable insights and building scalable analytical solutions. My work spans BI dashboard development, data warehousing, ETL automation, and trend analysis across various domains.
 
 ---
 
 ### 🔥 Featured Projects  
 
-#### 🏦 **Credit Card Fraud Detection using Machine Learning**  
-- Developed a machine learning model to detect fraudulent transactions using **Logistic Regression, Random Forest, and K-Means**.  
-- **Achieved 99.95% accuracy** on a Kaggle dataset of **284,807 transactions** after feature engineering and PCA.  
+#### 🧱 **End-to-End SQL Data Warehouse (Medallion Architecture)**  
+- Architected a multi-layer data warehouse using the **Bronze/Silver/Gold structure** and automated ETL pipelines.  
+- Tuned performance with **indexing, partitioning, and CTEs**, enabling **3x faster queries**.  
+- **Tools:** MySQL, SQL, ETL, Stored Procedures, Data Modeling
+
+#### 🚗 **Car Dealership Performance Dashboard**  
+- Developed a **Tableau dashboard** analyzing 1,000+ transactions, $36M+ in revenue, and employee performance across 30+ states.  
+- Built a scheduled ETL pipeline using **KNIME and Python** to clean and integrate data.  
+- **Tools:** Tableau, KNIME, SQL, Python  
+
+#### 🔌 **Electric Vehicle Market Trends Analysis**  
+- Analyzed 150K+ EV records, visualizing **CAFV eligibility, BEV vs. PHEV adoption**, and Tesla’s **45.9% market share**.  
+- Created an interactive Tableau dashboard with filters and geospatial insights.  
+- **Tools:** Tableau, Python, SQL, Excel  
+
+#### 🏦 **Credit Card Fraud Detection**  
+- Built a machine learning model to detect fraud using **Logistic Regression, Random Forest, and K-Means**.  
+- Achieved **99.95% accuracy** on a Kaggle dataset of **284,807 transactions** after **PCA and feature engineering**.  
 - **Tools:** Python, Scikit-learn, Pandas, NumPy  
 
-
-#### 🩺 **Newton’s Method for Breast Cancer Detection**  
-- Implemented **Newton’s Method** for tumor classification using **Logistic Regression** on the **UCI dataset**.  
-- Achieved **99.73% accuracy** with data preprocessing and optimization.  
+#### 🧪 **Newton’s Method for Breast Cancer Detection**  
+- Applied **Logistic Regression with Newton’s Method** on the UCI dataset to classify tumors.  
+- Achieved **99.73% accuracy** with custom optimization and preprocessing.  
 - **Tools:** Python, PyTorch, Scikit-learn  
 
+#### 📊 **Customer Segmentation Using RFM + K-Means**  
+- Segmented customers from **500K+ transactions** using **RFM analysis** and **K-Means clustering**.  
+- Enabled targeted marketing by uncovering purchasing behavior patterns.  
+- **Tools:** Python, Scikit-learn, Matplotlib, Pandas  
 
-#### 📊 **Customer Segmentation Using RFM and K-Means Clustering**  
-- Analyzed **500,000+ transactions** from a UK-based retailer to segment customers based on purchasing behavior.  
-- Used **RFM analysis and K-Means clustering** to identify distinct customer groups for targeted marketing.  
-- **Tools:** Python, Scikit-learn, Pandas, Matplotlib   
-
-#### 🔒 **Phishing Website Detection using Deep Learning**  
-- Developed a **Feedforward Neural Network (FNN)** to detect phishing sites using a dataset of **11,055 instances**.  
-- Improved accuracy from **93.14% to 99.73%** through **hyperparameter tuning**.  
+#### 🔐 **Phishing Website Detection using Deep Learning**  
+- Built a **Feedforward Neural Network (FNN)** to detect phishing websites from 11,055 samples.  
+- Improved accuracy from **93.14% to 99.73%** using hyperparameter tuning.  
 - **Tools:** Python, PyTorch, Scikit-learn  
 
 ---
 
 ### 📬 Let’s Connect!  
 
-I’m always open to discussing **projects, job opportunities, or AI research**. Let’s build something amazing together!  
+I’m always open to collaborating on data-driven projects or analytics roles. Feel free to reach out!
 
 📧 **Email:** mujtabahumayon@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/mujtabahumayon](https://www.linkedin.com/in/mujtabahumayon)  
